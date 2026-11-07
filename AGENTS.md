@@ -14,4 +14,5 @@ A project which wraps a custom harness over `codex` and `claude` ai harnesses to
 Hi agent, I am Jack, a full stack developer and AI enthusiast, this project is free and open source, we are providing an easier tool for people to bench mark there llm output and monitor what there agents are actually doing.
 
 
-
+## Building
+Prefer simplicity and concise code over complex over engineered solutions. Don't extend or building anything ontop of what the user has asked for. 
